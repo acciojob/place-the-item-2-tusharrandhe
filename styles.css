@@ -1,7 +1,7 @@
 .holder{
 	border-style:solid;
 	display:flex;
-	flex:wrap;
+	flex-wrap:wrap;
 	flex-direction:row;
 	justify-content:center;
 	height:100px;
