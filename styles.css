@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+.holder{
+	border-style:solid;
+	display:flex;
+	flex:wrap;
+	flex-direction:row;
+	justify-content:center;
+	height:100px;
+}
+.hold{
+	background:lightgray;
+	width:50px;
+}
